@@ -1,1 +1,1 @@
-# Farsi-Digit-Classification
+# Farsi-Digits-Classification
